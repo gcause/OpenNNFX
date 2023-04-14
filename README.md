@@ -1,2 +1,2 @@
-# nnfx
-mobiledev blog
+# OpenNNFX
+Open source NNFX code repository
