@@ -46,12 +46,15 @@ for a living.
 
 Also note the source code provided here is purely for educational purposes to help short-cut the 
 learning curve associated with each trading platform. Trading as you know has risks and you should
-not trade with money you cant afford to lose.
+not trade with money you cant afford to lose. 
 
 The source code is the intellectual property of and copyright Newhaven Resources Pty. Ltd. and your 
 use of the code in this repository is bound by the terms and conditions contained in our 
 License Agreement located here:
 https://github.com/gcause/OpenNNFX/blob/master/LICENSE
+
+Your coninued use of this software, in any way, is an acknowledgement by you that your use of the 
+software is at your own risk and you agree to the terms and conditions of our License Agreement.
 
 The aim of this repository is to write simple and easy to ammend code so that everybody 
 can use it as a starting point for their own algorithms.
