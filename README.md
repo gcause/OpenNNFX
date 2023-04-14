@@ -39,8 +39,10 @@ looking for a way of giving back to the NNFX community and hence OpenNNFX was cr
 
 Please note I am not associated or affiliated with the No Nonsense Forex or Stonhill Forex brands 
 in any way. I am just a student of VP and Dan learning NNFX like the rest of the NNFX community.
-I am just a little further along the learning curve than most, holding two degrees in Finance and 
-having worked in a Prop firm as a Quantitative Analyst programming indicators and trading robots.
+I am just a little further along the learning curve than most, having worked as a professional
+analyst programmer for over 3 decades, holding two degrees in Finance and having worked in a 
+Proprietary Trading firm as a Quantitative Analyst programming indicators and trading robots
+for a living.
 
 Also note the source code provided here is purely for educational purposes to help short-cut the 
 learning curve associated with each trading platform. Trading as you know has risks and you should
