@@ -53,8 +53,9 @@ use of the code in this repository is bound by the terms and conditions containe
 License Agreement located here:
 https://github.com/gcause/OpenNNFX/blob/master/LICENSE
 
-Your coninued use of this software, in any way, is an acknowledgement by you that your use of the 
-software is at your own risk and you agree to the terms and conditions of our License Agreement.
+Your coninued use of this software, in any way, serves as your acknowledgement and representation 
+that you have read and agree to the terms and conditions of our License Agreement and understand 
+that your use of the software is at your own risk.
 
 The aim of this repository is to write simple and easy to ammend code so that everybody 
 can use it as a starting point for their own algorithms.
@@ -90,3 +91,13 @@ Happy Trading :-)
 Cheers,
 
 Grant Cause
+aka CryptoCoyn
+
+PS. If you want to say thank you and show support you can do so by donating to my favourite charity
+the Save the Children Fund. All donations over $2 are tax deductible. You can donate here: 
+https://savethechildrenfundraising.org.au/cryptocoyn
+
+Or alternatively you can buy me a coffee:
+https://www.buymeacoffee.com/CryptoCoyn
+
+Either way I thank you for your support and encouragement to keep doing the work I do here.
