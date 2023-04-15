@@ -84,7 +84,9 @@ algorithm.
 My goal is to provide the community with the most comprehensive and easy to use NNFX coding resource 
 available on the internet.
 
-I hope this will serve you well.
+Please feel free to comment, report issues, or contribute!
+
+I hope this will serve you well for years to come.
 
 Happy Trading :-)
 
