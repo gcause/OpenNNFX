@@ -1,3 +1,5 @@
+OpenNNFX Example Algorithms
+
 This folder contains Example Algorithms that utilise the Base Templates and Indicators provided for each Trading Platform.
 
 There will be three(3) Example Algorithms provided, they are called:
