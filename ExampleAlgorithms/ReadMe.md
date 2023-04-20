@@ -8,7 +8,7 @@ There will be three(3) Example Algorithms provided, they are called:
 
 Each is a unique NNFX Trading Algorithm that you can use as a starting point for your own algorithms and will show you how to apply the Base Templates and Indicators provided by OpenNNFX.
 
-NOTE: each of these NNFX Trading Algorithms is provided for educational purposes only to show you how to apply the OpenNNFX Base Templates and Indicators to create a fully formed NNFX Trading Algorithms for your Trading Platform. Do not assume these will be profitable Trading Algorithms and DO NOT trade these with real money as they are for educational purposes only. Trading with these examples is at your own risk and we will not be held liable for any losses you incur, you can lose all your money by doing so. See the Disclaimers and Risk Warning Pag here:  https://opennnfx.com/disclaimer/
+NOTE: each of these NNFX Trading Algorithms is provided for educational purposes only to show you how to apply the OpenNNFX Base Templates and Indicators to create a fully formed NNFX Trading Algorithms for your Trading Platform. Do not assume these will be profitable Trading Algorithms and DO NOT trade these with real money as they are for educational purposes only. Trading with these examples is at your own risk and we will not be held liable for any losses you incur, you can lose all your money by doing so. See the Disclaimers and Risk Warning Page here:  https://opennnfx.com/disclaimer/
 
 They are each fully automated Trading Robots you can apply to your Trading Platform,  backtest and adjust to suit your trading style and preferences.
 
