@@ -1,3 +1,5 @@
+OpenNNFX Base Templates
+
 This folder contains the base templates for a NNFX Trading Algorithm that can be used as the starting point for developing you own Algorithm
 to save you the time of putting all the basic NNFX rules in place and allowing you to focus on developing your own NNFX Algorithm.
 
