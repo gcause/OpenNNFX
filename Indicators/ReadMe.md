@@ -1,3 +1,5 @@
+OpenNNFX Indicators
+
 This page is all about using the custom indicators provided by OpenNNFX.
 
 NNFX is a framework based on a set of values and principles that uses a number of indicator
