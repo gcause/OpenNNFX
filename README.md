@@ -2,7 +2,7 @@
 
 <a href="https://opennnfx.com" target="_new">OpenNNFX</a> a community based open source code repository of all things No Nonsense Forex (NNFX).
 
-An <a href="https://opennnfx.com" target="_new">OpenNNFX website</a> and <a href="https://www.youtube.com/@OpenNNFX" target="_new">YouTube Channel</a> are also provided to provide educational resources on the correct use of the OpenNNFX templates and indicators.
+An <a href="https://opennnfx.com" target="_new">OpenNNFX website</a> and <a href="https://www.youtube.com/@OpenNNFX" target="_new">YouTube Channel</a> are also provided to provide educational resources where we will explain how to best make use of the OpenNNFX templates and indicators.
 
 NNFX is a framework based on a set of values and principles that uses a number of indicator 
 categories such as:
