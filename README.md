@@ -92,10 +92,8 @@ Grant Cause
 aka CryptoCoyn
 
 PS. If you want to say thank you and show support you can do so by donating to my favourite charity
-the Save the Children Fund. All donations over $2 are tax deductible. You can donate here: 
-https://savethechildrenfundraising.org.au/cryptocoyn
+the <a href="https://savethechildrenfundraising.org.au/cryptocoyn" target="_new">Save the Children Fund</a>. All donations over $2 are tax deductible.
 
-Or alternatively you can buy me a coffee:
-https://www.buymeacoffee.com/CryptoCoyn
+Or alternatively you can <a href="https://www.buymeacoffee.com/CryptoCoyn" target="_new">buy me a coffee</a>.
 
 Either way I thank you for your support and encouragement to keep doing the work I do here.
