@@ -18,14 +18,14 @@ The code provided here encapsulates NNFX (No Nonsense Forex) and provides good m
 combined with the risk management practices as taught by the full-time trader Patrick Victor 
 known simply as VP.
 
-To learn more about NNFX please go to the one source of truth for NNFX, <a href="https://nononsenseforex.com" target=_new>VP's website.</a>
+To learn more about NNFX please go to the one source of truth for NNFX, <a href="https://nononsenseforex.com" target="_new">VP's website.</a>
 
 VP has published over 200 videos and podcasts that he has made available to the public explaining 
 exactly what NNFX is over on his <a href="https://www.youtube.com/@NoNonsenseForex" target=_new>YouTube channel</a>.
 
 If you would like to save yourself some time rather than go through the 200+ videos and podcasts 
 that VP has published. VP has licensed his intellectual property and together with his good friend 
-Dan from Stonehill Forex has published a <a href="https://stonehillforex.com" target=_new>comprehensive course on NNFX</a> 
+Dan from <a href="https://stonehillforex.com" target="_new">Stonehill Forex</a> has published a <a href="https://stonehillforex.com/stonehill-forex-201-advanced-course/" target="_new">comprehensive course on NNFX</a> 
 that condenses all that knowledge.
 
 My name is Grant Cause and I have been a member of the NNFX community for quite some time and was
@@ -42,13 +42,12 @@ for a living.
 
 Also note the source code provided here is purely for educational purposes to help short-cut the 
 learning curve associated with each trading platform. Trading as you know has risks and you should
-not trade with money you cant afford to lose. Please read the <a href="https://opennnfx.com/disclaimer/">disclaimers and risk page</a> before using 
+not trade with money you cant afford to lose. Please read the <a href="https://opennnfx.com/disclaimer/" target="_new">disclaimers and risk page</a> before using 
 the software. 
 
 The source code is the intellectual property of and copyright Newhaven Resources Pty. Ltd. and your 
 use of the code in this repository is bound by the terms and conditions contained in our 
-License Agreement located here:
-https://github.com/gcause/OpenNNFX/blob/master/LICENSE
+<a href="https://github.com/gcause/OpenNNFX/blob/master/LICENSE" target="_new">License Agreement</a>.
 
 Your coninued use of this software, in any way, serves as your acknowledgement and representation 
 that you have read and agree to the terms and conditions of our License Agreement and understand 
