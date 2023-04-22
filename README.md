@@ -18,21 +18,15 @@ The code provided here encapsulates NNFX (No Nonsense Forex) and provides good m
 combined with the risk management practices as taught by the full-time trader Patrick Victor 
 known simply as VP.
 
-To learn more about NNFX please go to the one source of truth for NNFX, VP's website:
-
-https://nononsenseforex.com
+To learn more about NNFX please go to the one source of truth for NNFX, <a href="https://nononsenseforex.com" target=_new>VP's website.</a>
 
 VP has published over 200 videos and podcasts that he has made available to the public explaining 
-exactly what NNFX is over on his YouTube channel here:
-
-https://www.youtube.com/@NoNonsenseForex
+exactly what NNFX is over on his <a href="https://www.youtube.com/@NoNonsenseForex" target=_new>YouTube channel</a>.
 
 If you would like to save yourself some time rather than go through the 200+ videos and podcasts 
 that VP has published. VP has licensed his intellectual property and together with his good friend 
-Dan from Stonehill Forex has published a comprehensive course on NNFX that condenses the knowledge 
-located here:
-
-https://stonehillforex.com
+Dan from Stonehill Forex has published a <a href="https://stonehillforex.com" target=_new>comprehensive course on NNFX</a> 
+that condenses all that knowledge.
 
 My name is Grant Cause and I have been a member of the NNFX community for quite some time and was
 looking for a way of giving back to the NNFX community and hence OpenNNFX was created.
