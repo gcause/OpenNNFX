@@ -1,7 +1,7 @@
 # OpenNNFX
 Open source NNFX code repository
 
-OpenNNFX a community based open source code repository of all things No Nonsense Forex (NNFX).
+<a href="https://opennnfx.com" target="_new">OpenNNFX</a> a community based open source code repository of all things No Nonsense Forex (NNFX).
 
 NNFX is a framework based on a set of values and principles that uses a number of indicator 
 categories such as:
@@ -29,7 +29,7 @@ Dan from <a href="https://stonehillforex.com" target="_new">Stonehill Forex</a> 
 that condenses all that knowledge.
 
 My name is Grant Cause and I have been a member of the NNFX community for quite some time and was
-looking for a way of giving back to the NNFX community and hence OpenNNFX was created.
+looking for a way of giving back to the NNFX community and hence <a href="https://opennnfx.com" target="_new">OpenNNFX</a> was created.
 
 Please note I am not associated or affiliated with the No Nonsense Forex or Stonhill Forex brands 
 in any way. 
@@ -76,6 +76,8 @@ The repository will provide the same set of base code for multiple trading platf
 
 The code will contain instructions within it as to where the code can be modified for your own
 algorithm.
+
+A <a href="https://opennnfx.com" target="_new">OpenNNFX website</a> and <a href="https://www.youtube.com/@OpenNNFX" target="_new">YouTube Channel</a> are also provided to provide educational resources on the correct use of the OpenNNFX templates and indicators.
 
 My goal is to provide the community with the most comprehensive and easy to use NNFX coding resource 
 available on the internet.
