@@ -1,8 +1,8 @@
 # OpenNNFX
 
-<a href="https://opennnfx.com" target="_new">OpenNNFX</a> a community based open source code repository of all things No Nonsense Forex (NNFX).
+<a href="https://opennnfx.com" target="_blank">OpenNNFX</a> a community based open source code repository of all things No Nonsense Forex (NNFX).
 
-An <a href="https://opennnfx.com" target="_new">OpenNNFX website</a> and <a href="https://www.youtube.com/@OpenNNFX" target="_new">YouTube Channel</a> are also provided to provide educational resources where we will explain how to best make use of the OpenNNFX templates and indicators.
+An <a href="https://opennnfx.com" target="_blank">OpenNNFX website</a> and <a href="https://www.youtube.com/@OpenNNFX" target="_blank">YouTube Channel</a> are also provided to provide educational resources where we will explain how to best make use of the OpenNNFX templates and indicators.
 
 NNFX is a framework based on a set of values and principles that uses a number of indicator 
 categories such as:
@@ -19,18 +19,18 @@ The code provided here encapsulates NNFX (No Nonsense Forex) and provides good m
 combined with the risk management practices as taught by the full-time trader Patrick Victor 
 known simply as VP.
 
-To learn more about NNFX please go to the one source of truth for NNFX, <a href="https://nononsenseforex.com" target="_new">VP's website.</a>
+To learn more about NNFX please go to the one source of truth for NNFX, <a href="https://nononsenseforex.com" target="_blank">VP's website.</a>
 
 VP has published over 200 videos and podcasts that he has made available to the public explaining 
-exactly what NNFX is over on his <a href="https://www.youtube.com/@NoNonsenseForex" target=_new>YouTube channel</a>.
+exactly what NNFX is over on his <a href="https://www.youtube.com/@NoNonsenseForex" target="_blank">YouTube channel</a>.
 
 If you would like to save yourself some time rather than go through the 200+ videos and podcasts 
 that VP has published. VP has licensed his intellectual property and together with his good friend 
-Dan from <a href="https://stonehillforex.com" target="_new">Stonehill Forex</a> has published a <a href="https://stonehillforex.com/stonehill-forex-201-advanced-course/" target="_new">comprehensive course on NNFX</a> 
+Dan from <a href="https://stonehillforex.com" target="_blank">Stonehill Forex</a> has published a <a href="https://stonehillforex.com/stonehill-forex-201-advanced-course/" target="_blank">comprehensive course on NNFX</a> 
 that condenses all that knowledge.
 
 My name is Grant Cause and I have been a member of the NNFX community for quite some time and was
-looking for a way of giving back to the NNFX community and hence <a href="https://opennnfx.com" target="_new">OpenNNFX</a> was created.
+looking for a way of giving back to the NNFX community and hence <a href="https://opennnfx.com" target="_blank">OpenNNFX</a> was created.
 
 Please note I am not associated or affiliated with the No Nonsense Forex or Stonhill Forex brands 
 in any way. 
@@ -43,12 +43,12 @@ for a living.
 
 Also note the source code provided here is purely for educational purposes to help short-cut the 
 learning curve associated with each trading platform. Trading as you know has risks and you should
-not trade with money you cant afford to lose. Please read the <a href="https://opennnfx.com/disclaimer/" target="_new">disclaimers and risk page</a> before using 
+not trade with money you cant afford to lose. Please read the <a href="https://opennnfx.com/disclaimer/" target="_blank">disclaimers and risk page</a> before using 
 the software. 
 
 The source code is the intellectual property of and copyright Newhaven Resources Pty. Ltd. and your 
 use of the code in this repository is bound by the terms and conditions contained in our 
-<a href="https://github.com/gcause/OpenNNFX/blob/master/LICENSE" target="_new">License Agreement</a>.
+<a href="https://github.com/gcause/OpenNNFX/blob/master/LICENSE" target="_blank">License Agreement</a>.
 
 Your coninued use of this software, in any way, serves as your acknowledgement and representation 
 that you have read and agree to the terms and conditions of our License Agreement and understand 
@@ -93,8 +93,8 @@ Grant Cause
 aka CryptoCoyn
 
 PS. If you want to say thank you and show support you can do so by donating to my favourite charity
-the <a href="https://savethechildrenfundraising.org.au/cryptocoyn" target="_new">Save the Children Fund</a>. All donations over $2 are tax deductible.
+the <a href="https://savethechildrenfundraising.org.au/cryptocoyn" rel="nofollow" target="_blank">Save the Children Fund</a>. All donations over $2 are tax deductible.
 
-Or alternatively you can <a href="https://www.buymeacoffee.com/CryptoCoyn" target="_new">buy me a coffee</a>.
+Or alternatively you can <a href="https://www.buymeacoffee.com/CryptoCoyn" rel="nofollow" target="_blank">buy me a coffee</a>.
 
 Either way I thank you for your support and encouragement to keep doing the work I do here.
